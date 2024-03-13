@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Jiménez Mena</h1>
-<h3 align="center">A passionate frontend developer from Paraguai living in Barcelona, Spain</h3>
+<h3 align="center">A passionate frontend developer from Paraguay living in Barcelona, Spain</h3>
 
 - 🔭 I’m currently working on **javascript-games-vue**
 
