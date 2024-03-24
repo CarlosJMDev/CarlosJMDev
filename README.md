@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **javascript-games-vue**
 
-- 🌱 I’m currently learning **React, Astro and AWS**
+- 🌱 I’m currently learning **React and TypeScript**
 
 - 💬 Ask me about **Vue, HTML and CSS**
 
