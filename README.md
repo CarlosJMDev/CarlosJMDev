@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and TypeScript**
 
-- 💬 Ask me about **Vue, HTML and CSS**
+- 💬 Ask me about ** HTML,CSS and JS/Vue**
 
 - 📫 How to reach me **carlosjmdev@gmail.com**
 
